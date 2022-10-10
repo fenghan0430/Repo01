@@ -7,6 +7,8 @@ public class VD3 {
         //int -21亿~21亿
         int c = 10;
         //long 很大很大
-        long d = 10;    
+        //long 类型的变量最后要加L
+        long d = 10;
+        System.out.println(d); 
     }   
 }
