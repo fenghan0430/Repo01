@@ -12,19 +12,16 @@ public class VD3 {
         //long 类型的变量最后要加L
         long d = 10;
 
-
         //浮点
         //float
         //定义float类型变量要加F为后缀
         float e = 10.1F;
-
         //double
         double f = 1.1;
 
         //字符
         //char 单个字符
         char g = 'a';
-        
         //string 字符串，多字符
         String g2 = "世界";
 
